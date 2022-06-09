@@ -1,4 +1,4 @@
-# Metagenome-CoAssembly-
+# Metagenome-CoAssembly
 ### 1. Concatenate metagenomes for co-assembly 
 ```
 cat MG_A_1.fastq MG_B_1.fastq MG_C_1.fastq MG_D_1.fastq MG_E_1.fastq > MG_1.fastq
